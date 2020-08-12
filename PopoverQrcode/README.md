@@ -25,6 +25,6 @@ export default {
 |属性名|类型|默认值|说明|可选值|
 |---|----|---|---|---|
 |url|String|-|url链接|
-|title|String|'二维码（右击保存）'|标题|-|
-|placement|String|'bottom'|出现位置|'top/top-start/top-end/bottom/bottom-start/bottom-end/left/left-start/left-end/right/right-start/right-end'|
-|trigger|String|'click'|触发方式|'click/focus/hover/manual'|
+|title|String|二维码（右击保存）|标题|-|
+|placement|String|bottom|出现位置|top/top-start/top-end/bottom/bottom-start/bottom-end/left/left-start/left-end/right/right-start/right-end|
+|trigger|String|click|触发方式|click/focus/hover/manual|
